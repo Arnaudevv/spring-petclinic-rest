@@ -338,3 +338,5 @@ The [issue tracker](https://github.com/spring-petclinic/spring-petclinic-rest/is
 For pull requests, editor preferences are available in the [editor config](https://github.com/spring-petclinic/spring-petclinic-rest/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org>.
 
 <!-- CI Test: verificacio webhook Jenkins -->
+
+<!-- CI Trigger: 2026-11-16 17:17:53 -->
